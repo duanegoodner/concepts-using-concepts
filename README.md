@@ -8,7 +8,7 @@ C++20 Concepts provide a way to define constraints on template parameters, enabl
 
 ## Description
 
-This project demonstrates how one Concept (`DataProcessorConcept`) can depend on another (`DataRetrieverConcept`), enforcing structure at the type level. The following classes, Concepts and templates are used:
+This project demonstrates how one Concept (`DataProcessorConcept`) can depend on another. The following classes, Concepts and templates are used:
 
 ### `SimpleData`
 
