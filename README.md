@@ -1,6 +1,6 @@
 # concept-using-concept
 
-*Brief Demonstration of how one C++20 Concept can depend on another C++20 Concept*
+*Demonstration of how one C++20 Concept can depend on another C++20 Concept*
 
 ## Background
 C++20 Concepts provide a way to define constraints on template parameters, enabling better compile-time checking and more readable error messages.  
@@ -8,7 +8,7 @@ C++20 Concepts provide a way to define constraints on template parameters, enabl
 
 ## Description
 
-This project demonstrates how one Concept (`DataProcessorConcept`) can depend on another. The following classes, Concepts and templates are used:
+This project briefly demonstrates how one Concept (`DataProcessorConcept`) can depend on another. The following classes, Concepts and templates are used:
 
 ### `SimpleData`
 
