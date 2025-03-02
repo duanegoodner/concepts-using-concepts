@@ -12,7 +12,7 @@ This project demonstrates how one Concept (`DataProcessorConcept`) can depend on
 
 ### `SimpleData`
 
-- Data container type that other classes retrieve and operate on
+- Concrete data container type that other classes retrieve and operate on.
 
 ### `DataRetrieverConcept`  
 - Concept requiring a **`GetData()`** method that returns a **`SimpleData`** object.
